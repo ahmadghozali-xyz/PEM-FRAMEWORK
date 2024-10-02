@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <?php
+    public class UMRI
+    public function pesan ()
+    echo "Teknik Infromatika"
+    $ <object data="" type=""></object> = 
+    $ <object data="" type=""></object>
+    ?>
+    class penjumlahan
+
+    bilangan 1
+    bilangan 2
+
+    proses
+    cetak
+
+    <?php
+    public class penjumlahan
+
+    $bilangan1 =2;
+    $bilangan2 =3;
+
+    public function proses (
+        $hasil =$bilangan1 = $bilangan2;
+        public function cetak ()
+        echo $hasil;
+
+    $xyz1 = new penjumlahan
+    $xyz2 = proses();
+    $xyz3 = cetak();
+    ?>
+</body>
+</html>
